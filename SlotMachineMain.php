@@ -1,5 +1,5 @@
 <?php
-include ("SlotMachine_Clases.php");
+include ("SlotMachineClases.php");
 
 $symbols = [
     new Symbol("9", 2, 2),
